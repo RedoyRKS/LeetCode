@@ -1,3 +1,3 @@
 # Hi
 
-# LeetCode problem solving repository.
+## LeetCode problem solving repositorie.
